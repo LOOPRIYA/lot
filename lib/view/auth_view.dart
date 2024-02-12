@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:lot/model/reg_model.dart';
-
 import '../controller/reg_controller.dart';
 
 final nameController = TextEditingController();
